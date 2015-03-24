@@ -1,4 +1,4 @@
 # Cryptography
 Cryptography course in NTU.
 
-Textbook: Understanding Christof Paar · Jan Pelzl
+Textbook: Understanding Cryptography, Christof Paar · Jan Pelzl
