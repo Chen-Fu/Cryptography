@@ -1,3 +1,8 @@
+##Introduction to Cryptography
+
+Assignment 2 (Due 28/04/2015)
+There are totally 13 problems in this problem set. Please hand in the solutions of any TEN problems. If more problems are attempted, only the HIGHEST TEN SCORES ACHIEVED will count toward the grade for this assignment.
+
 Textbook Problems:
 3.1 (9 points), 3.5 (12 points), 3.8 (12 points);
 4.6 (8 points), 4.7 (8 points),4.9 (8 points), 4.11 (9 points);
