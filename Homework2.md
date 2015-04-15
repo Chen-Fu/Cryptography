@@ -1,6 +1,6 @@
 ##Introduction to Cryptography
 
-Assignment 2 (Due 28/04/2015)
+Assignment 2 (Due 28/04/2015)   
 There are totally 13 problems in this problem set. Please hand in the solutions of any TEN problems. If more problems are    attempted, only the HIGHEST TEN SCORES ACHIEVED will count toward the grade for this assignment.    
 
 Textbook Problems:    
